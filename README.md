@@ -2,4 +2,4 @@
 # automated-treatment-planning
 Program uses Eclipse Scripting API to create treatment plans automatically. Actual version includes AI to mitigate potential risks. <br>
 Here the module for guessing patient's gender. <br>
- For general information on ML.net, see https://github.com/dotnet/machinelearning
+For general information on ML.net, see https://github.com/dotnet/machinelearning
